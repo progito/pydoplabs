@@ -36,3 +36,12 @@
 
 Приложение должно иметь кастомные стили в отдельном файле стилей (почитать можно [тут о стилях](https://doc.qt.io/qtforpython-6/tutorials/basictutorial/widgetstyling.html))
 
+#### Доп. Документация
+
+gTTS - [офиц. документация](https://gtts.readthedocs.io/en/latest/)
+
+PyQt - [офиц. документация](https://www.riverbankcomputing.com/static/Docs/PyQt6/)
+
+googletrans - [репозитория github](https://github.com/ssut/py-googletrans)
+
+
